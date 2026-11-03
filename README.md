@@ -121,6 +121,10 @@ Projeto desenvolvido pela equipe **Gripphen**, como parte da disciplina de **UPX
 **Local:** Sorocaba — SP  
 **Ano:** 2026
 
+## 🎨 Protótipos e Design
+
+- [Landing Page – VitaliApp](https://www.figma.com/make/8Xr9JorXDJ54ddIw4wstex/Vitali-App-Landing-Page?code-node-id=0-6&p=f&t=LdlUMJKUoFpoVAXE-0&fullscreen=1)
+- [Protótipo – Aplicativo do Cliente UBS](https://www.figma.com/proto/yjn0dCYZDAj4SCrdTYlOti/VitaliAPP-Cliente-UBS?node-id=9-330&t=hJFQSHWXw3fMSUR5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
 ---
 
 <p align="center">
